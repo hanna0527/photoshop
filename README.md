@@ -120,7 +120,7 @@ esc 키로도 실행시킬 수 있습니다.
 
 ![spin90](https://user-images.githubusercontent.com/114378724/200846716-bce3e642-defa-4f3d-adda-255087d59508.png)
 
-예시) 30도 회전 기능
+예시) 90도 회전 기능
 
 30, 45, 90, 180도 회전 기능이 존재합니다.
 
