@@ -44,6 +44,8 @@
 
 지금부터 왼쪽 화면을 화면 1, 오른쪽 화면을 화면 2라 한 후 설명하겠습니다.
 
+[사용한 사진]: https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aGFtc3RlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60
+
 ## 2. 버튼
 
 시작 화면의 왼쪽에 있는 버튼들에 대한 설명입니다.
@@ -164,6 +166,10 @@ esc 키로도 실행시킬 수 있습니다.
 
 ![image](https://user-images.githubusercontent.com/114378724/200819619-0a02a265-2d40-406a-91b1-ec6683a3e058.png)
 
+![square](https://user-images.githubusercontent.com/114378724/200821245-5374fdbd-4e0d-4ad4-8546-89d29cd55f40.png)
+
+![triangle](https://user-images.githubusercontent.com/114378724/200821233-d319d605-47d4-4665-b281-c7807667f980.png)
+
 이미지에 마스킹 효과를 냅니다.
 
 원, 사각형, 삼각형 모양의 효과를 낼 수 있습니다.
@@ -179,6 +185,9 @@ esc 키로도 실행시킬 수 있습니다.
 - 확대, 축소
 
 ![zoomin](https://user-images.githubusercontent.com/114378724/200819897-efd975a7-fa0b-4b23-a1f7-f9fb740d5fe8.png)
+
+![zoomout](https://user-images.githubusercontent.com/114378724/200821199-9b0c09ac-c732-46a7-94a4-2ed03f210e6b.png)
+
 
 이미지를 확대, 축소할 수 있습니다.
 
