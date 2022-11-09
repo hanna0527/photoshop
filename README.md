@@ -46,6 +46,9 @@
 
 [사용한 사진]: https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aGFtc3RlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60
 
+[정사각형으로 가공한 사진]: ![smallhamsquare](https://user-images.githubusercontent.com/114378724/200821904-bbd85db2-4677-48dc-bbd2-ae4d7e641957.png)
+
+
 ## 2. 버튼
 
 시작 화면의 왼쪽에 있는 버튼들에 대한 설명입니다.
@@ -142,6 +145,8 @@ esc 키로도 실행시킬 수 있습니다.
 
 ![lensslide](https://user-images.githubusercontent.com/114378724/200819229-3534d90d-d45c-4655-a734-fde0bfc5c174.png)
 
+![zoomout](https://user-images.githubusercontent.com/114378724/200821618-d76c3998-9a06-4a25-9fdd-a8f317d5767d.png)
+
 사용자가 이 메뉴를 누른다면 슬라이드 사이드 메뉴를 보여줍니다.
 
 이 슬라이드를 조작하여 렌즈 왜곡의 정도를 조절할 수 있습니다.
@@ -186,7 +191,7 @@ esc 키로도 실행시킬 수 있습니다.
 
 ![zoomin](https://user-images.githubusercontent.com/114378724/200819897-efd975a7-fa0b-4b23-a1f7-f9fb740d5fe8.png)
 
-![zoomout](https://user-images.githubusercontent.com/114378724/200821199-9b0c09ac-c732-46a7-94a4-2ed03f210e6b.png)
+![smallzoomout](https://user-images.githubusercontent.com/114378724/200821830-e9536f35-6d93-4990-b283-e36ec86c28dd.png)
 
 
 이미지를 확대, 축소할 수 있습니다.
