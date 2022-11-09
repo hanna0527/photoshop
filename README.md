@@ -44,9 +44,11 @@
 
 지금부터 왼쪽 화면을 화면 1, 오른쪽 화면을 화면 2라 한 후 설명하겠습니다.
 
-[사용한 사진]: https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aGFtc3RlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60
+사용한 사진: https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aGFtc3RlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60
 
-[정사각형으로 가공한 사진]: ![smallhamsquare](https://user-images.githubusercontent.com/114378724/200821904-bbd85db2-4677-48dc-bbd2-ae4d7e641957.png)
+정사각형으로 가공한 사진
+
+![smallhamsquare](https://user-images.githubusercontent.com/114378724/200821904-bbd85db2-4677-48dc-bbd2-ae4d7e641957.png)
 
 
 ## 2. 버튼
