@@ -118,7 +118,7 @@ esc 키로도 실행시킬 수 있습니다.
 
 기능의 이름대로 사진을 회전시킵니다.
 
-![spin30](https://user-images.githubusercontent.com/114378724/200818362-b7179bc5-05ae-47c0-aa34-2bac7aa32e6d.png)
+![spin90](https://user-images.githubusercontent.com/114378724/200846716-bce3e642-defa-4f3d-adda-255087d59508.png)
 
 예시) 30도 회전 기능
 
