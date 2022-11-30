@@ -33,6 +33,14 @@
     - 확대, 축소
 
     - 좌우반전
+    
+  - 3-6. 업데이트
+
+    - 파일
+    
+    - 필터링
+    
+    - 경계
 
 <hr/>
 
@@ -203,3 +211,50 @@ esc 키로도 실행시킬 수 있습니다.
 ![mirrored](https://user-images.githubusercontent.com/114378724/200820061-10f87284-c799-4708-8b75-e711a5a55a69.png)
 
 이미지를 좌우 반전 시킬 수 있습니다.
+
+### 3-6. 업데이트
+
+-파일
+
+UI 관련 코드와 사진, 아이콘을 다른 파일에 따로 저장했습니다.
+
+- 블러링
+
+  - blur
+  
+  ![blur](https://user-images.githubusercontent.com/114378724/204826074-ee4a0973-737d-4756-81a5-1ec21fdca726.png)
+
+  blur 함수를 사용한 블러 처리를 슬라이더를 사용해서 할 수 있습니다.
+  
+  - GaussianBlur
+  
+  ![gaussian](https://user-images.githubusercontent.com/114378724/204826101-6c1094f6-8c43-49de-992b-3e7ed98d1b91.png)
+
+  GaussianBlur 함수를 사용한 블러 처리를 슬라이더를 사용해서 할 수 있습니다.
+  
+  - medianBlur
+  
+  ![median](https://user-images.githubusercontent.com/114378724/204826115-5dc706e6-7efa-4b6d-9bea-c5b51a2f9d09.png)
+  
+  medianBlur 함수를 사용한 블러 처리를 슬라이더를 사용해서 할 수 있습니다.
+  
+  - bilateralFilter
+  
+  ![bilateral](https://user-images.githubusercontent.com/114378724/204826133-7e4a2413-87c5-4a85-b25a-5395c82d0630.png)
+  
+  bilateralFilter 함수를 사용한 블러 처리를 슬라이더를 사용해서 할 수 있습니다.
+  
+- 경계
+
+  - 로버츠 교차 필터
+  
+  ![roberts](https://user-images.githubusercontent.com/114378724/204826242-bfa9353a-d827-419a-b732-a69bd41e4613.png)
+  
+  이미지에 로버츠 교차 필터를 사용할 수 있습니다.
+  
+  
+  - 소벨 
+  
+  ![sobel](https://user-images.githubusercontent.com/114378724/204826263-a2666224-5379-4f74-ab02-7ce8f43f2afa.png)
+
+  이미지에 로버츠 교차 필터를 사용할 수 있습니다.
