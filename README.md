@@ -227,7 +227,7 @@ UI 관련 코드와 사진, 아이콘을 다른 파일에 따로 저장했습니
 ![big](https://user-images.githubusercontent.com/114378724/205287191-4c51b568-1707-481f-a23e-bf3c1dddf0ae.png)
 
 
-[사진 출처]: https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1143&q=80
+사진 출처: https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1143&q=80
 
 사진의 크기가 너무 클 때에는 프로그램이 잘 돌아가지 않아 파일을 불러올 때 height>700 혹은 width>700을 만족할 경우
 그 사진의 크기를 480 X 480으로 들여올 것인지 물어보는 기능을 추가했습니다. 
