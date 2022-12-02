@@ -38,9 +38,13 @@
 
     - 파일
     
+    - 파일 불러오기
+    
     - 필터링
     
     - 경계
+    
+    - 필터
 
 <hr/>
 
@@ -218,29 +222,49 @@ esc 키로도 실행시킬 수 있습니다.
 
 UI 관련 코드와 사진, 아이콘을 다른 파일에 따로 저장했습니다.
 
+-사진 불러오기
+
+![big](https://user-images.githubusercontent.com/114378724/205287191-4c51b568-1707-481f-a23e-bf3c1dddf0ae.png)
+
+
+[사진 출처]: https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1143&q=80
+
+사진의 크기가 너무 클 때에는 프로그램이 잘 돌아가지 않아 파일을 불러올 때 height>700 혹은 width>700을 만족할 경우
+그 사진의 크기를 480 X 480으로 들여올 것인지 물어보는 기능을 추가했습니다. 
+
+![big_yes](https://user-images.githubusercontent.com/114378724/205287219-32cdd2f6-ec70-4b57-84f7-86e7d05ab7c2.png)
+
+Yes의 경우 사진을 480X480으로 resize해줍니다.
+
+![big_no](https://user-images.githubusercontent.com/114378724/205287242-e53c2acf-e472-4509-b6ee-1d5015681baa.png)
+
+No의 경우 아무것도 해주지 않지만, 그대로 프로그램을 실행시키고 싶다면 메뉴의 "축소" 기능을 사용하고 프로그램을 실행시키면 됩니다.
+
+
+
 - 블러링
 
   - blur
   
-  ![blur](https://user-images.githubusercontent.com/114378724/204826074-ee4a0973-737d-4756-81a5-1ec21fdca726.png)
+  ![blur](https://user-images.githubusercontent.com/114378724/205287262-1dc66406-06b1-4f25-84c7-ba43e08e6d1c.png)
 
   blur 함수를 사용한 블러 처리를 슬라이더를 사용해서 할 수 있습니다.
   
   - GaussianBlur
   
-  ![gaussian](https://user-images.githubusercontent.com/114378724/204826101-6c1094f6-8c43-49de-992b-3e7ed98d1b91.png)
+  ![gaussian](https://user-images.githubusercontent.com/114378724/205287274-e5e183f3-9056-4e30-bd2b-14f57c4d16a3.png)
 
   GaussianBlur 함수를 사용한 블러 처리를 슬라이더를 사용해서 할 수 있습니다.
   
   - medianBlur
   
-  ![median](https://user-images.githubusercontent.com/114378724/204826115-5dc706e6-7efa-4b6d-9bea-c5b51a2f9d09.png)
+  ![median](https://user-images.githubusercontent.com/114378724/205287301-ed154d92-8b86-4110-b9a0-5456cfd11d15.png)
   
   medianBlur 함수를 사용한 블러 처리를 슬라이더를 사용해서 할 수 있습니다.
   
   - bilateralFilter
   
-  ![bilateral](https://user-images.githubusercontent.com/114378724/204826133-7e4a2413-87c5-4a85-b25a-5395c82d0630.png)
+  ![bilateral](https://user-images.githubusercontent.com/114378724/205287322-1b40bfb5-8f32-4c4c-b76a-f9278feb7772.png)
   
   bilateralFilter 함수를 사용한 블러 처리를 슬라이더를 사용해서 할 수 있습니다.
   
@@ -248,13 +272,22 @@ UI 관련 코드와 사진, 아이콘을 다른 파일에 따로 저장했습니
 
   - 로버츠 교차 필터
   
-  ![roberts](https://user-images.githubusercontent.com/114378724/204826242-bfa9353a-d827-419a-b732-a69bd41e4613.png)
+  ![roberts](https://user-images.githubusercontent.com/114378724/205287347-0c34f71d-7acc-4f9b-b273-06d586c6c06a.png)
   
   이미지에 로버츠 교차 필터를 사용할 수 있습니다.
   
   
   - 소벨 
   
-  ![sobel](https://user-images.githubusercontent.com/114378724/204826263-a2666224-5379-4f74-ab02-7ce8f43f2afa.png)
+  ![sobel](https://user-images.githubusercontent.com/114378724/205287360-7a1eb8bb-d3bb-4055-9cc6-220e46edb307.png)
 
   이미지에 소벨 필터를 사용할 수 있습니다.
+  
+  
+- 효과
+  
+  -sepia 필터
+  
+  ![sepia](https://user-images.githubusercontent.com/114378724/205287383-2f0578c2-27c2-4161-a9f6-4ea6133c3224.png)
+  
+  이미지에 sepia 필터를 사용할 수 있습니다.
